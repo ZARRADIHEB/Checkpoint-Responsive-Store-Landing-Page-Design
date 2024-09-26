@@ -71,14 +71,14 @@ body {
 .landing {
   background-color: var(--dark-color);
   min-height: calc(100vh - 76px);
-  background: url(/images/hero-section.png) no-repeat center center/contain;
+  background: url(./images/hero-section.png) no-repeat center center/contain;
   position: relative;
 }
 @media screen and (max-width: 480px) {
   .landing {
     background-color: var(--dark-color);
     min-height: calc(100vh - 76px);
-    background: url(/images/landing-bg.jpg) no-repeat center center/cover;
+    background: url(./images/landing-bg.jpg) no-repeat center center/cover;
     position: relative;
   }
   .typewriter h1 {

@@ -38,7 +38,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/images/landing-bg.jpg) center center / cover;
+  background: url(./images/landing-bg.jpg) center center / cover;
 }
 
 .order-form-container {
